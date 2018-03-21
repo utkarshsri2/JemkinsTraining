@@ -1,2 +1,3 @@
 # JemkinsTraining
-Test trainig 0touch
+Test trainig 0touchd
+ss
